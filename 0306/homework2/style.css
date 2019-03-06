@@ -1,0 +1,23 @@
+body {
+  background-color: Pink;
+}
+h2 {
+  color: green;
+  font-family:verdana;
+  padding: 50px ;
+}
+p {
+  color: brown;
+  font-family:courier;
+  border:10px solid gray;
+  font-size:300%;
+}
+#p01 {
+  color: blue;
+}
+p.error {
+  color: red;
+}
+#p02{
+	color:black;
+}
